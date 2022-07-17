@@ -1,4 +1,4 @@
-# Echo Server/Client in Go
+# Half-close Echo Server/Client in Go
 
 Supports tcp. Build with `bash -x ./scripts/build.sh` or `./scripts/build.sh`
 
